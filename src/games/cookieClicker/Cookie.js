@@ -1,7 +1,7 @@
 // import GameComponent from "../../GameComponent.js";
 // import React from "react";
-// import UserApi from "../../UserApi.js";
-// import CookieClicker from "./games/cookieClicker/CookieClicker.js";
+// import UserApi from "../../UserApi.js";i// mport CookieClicker from "./games/cookieClicker/CookieClicker.js";
+
 
 // export default class Cookie extends GameComponent {
 //   render() {
