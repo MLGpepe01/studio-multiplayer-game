@@ -1,0 +1,14 @@
+.score {
+  width: 100%;
+  border: 2px solid black;
+  border-collapse: collapse;
+  text-align: center;
+
+.playersname th {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+.playersc,
+td {
+  border-left: 2px solid black;
+}
